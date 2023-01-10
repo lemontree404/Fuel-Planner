@@ -36,7 +36,7 @@ streamlit run app.py
 ```
 The app will be available at http://localhost:8501/ in your web browser.
 
-![]{https://github.com/lemontree404/Fuel-Planner/blob/main/streamlit-app-2023-01-10-14-01-12.webm}
+![](https://github.com/lemontree404/Fuel-Planner/blob/main/streamlit-app-2023-01-10-14-01-12.gif)
 
 ## Built With
 - [Python](https://www.python.org/) - Programming language

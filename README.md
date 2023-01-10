@@ -30,15 +30,17 @@ Install the required dependencies.
 pip install -r requirements.txt
 ```
 ### Running the App
-To run the app, navigate to the FuelUp directory and run the following command:
+To run the app run the following command:
 ```bash
 streamlit run app.py
 ```
 The app will be available at http://localhost:8501/ in your web browser.
 
+![]{https://github.com/lemontree404/Fuel-Planner/blob/main/streamlit-app-2023-01-10-14-01-12.webm}
+
 ## Built With
 - [Python](https://www.python.org/) - Programming language
-- [pandas]\(pandas.pydata.org) - Data manipulation library
+- [pandas](pandas.pydata.org) - Data manipulation library
 - [numpy](https://numpy.org/) - Scientific computing library
 - [streamlit](https://streamlit.io/) - App framework
 - [googlemaps](https://github.com/googlemaps/google-maps-services-python) - Google Maps API client library
